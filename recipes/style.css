@@ -1,0 +1,22 @@
+h1, h2 {
+  color: white;
+  font-weight: 700;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif
+}
+
+h1 {
+  background-color: red;
+}
+
+h2 {
+  background-color: lightcoral;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+p, li {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif
+}
